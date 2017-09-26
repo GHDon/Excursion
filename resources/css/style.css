@@ -1,0 +1,58 @@
+h1 {
+  font-family: Verdana;
+  font-weight: bold;
+  font-size: 50px;
+  color: white;
+  text-align: center;
+  background-color: black;
+  display: block;
+  Margin: 33.500;
+  width: 885;
+  height: 120;
+}
+h2 {
+  font-family: Verdana;
+  font-weight: 300;
+  font-size: 42px;
+}
+body {
+  font-family: Verdana, sans-serif;
+  text-align: center;
+  background-color: black;
+  color: white;
+  display: block;
+  Margin: 8px;
+  width: 885;
+  height: 1969.940;
+}
+.lks {
+  color: aquamarine;
+  font-size: 16px;
+  text-decoration: underline;
+  cursor:auto;
+  width: auto;
+  height: auto;
+}
+.video {
+  object-fit: contain;
+  width: 404;
+  height: 720;
+}
+.app {
+  color: white;
+}
+p {
+  font-family: Verdana;
+  font-size: 21px;
+  text-align: center;
+  color: grey;
+}
+.footer {
+  text-align: right;
+  color: gray;
+}
+div {
+  display: block;
+  width: 885;
+  height: 25;
+}
