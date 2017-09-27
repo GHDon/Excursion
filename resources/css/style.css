@@ -14,7 +14,9 @@ h2 {
   font-family: Verdana;
   font-weight: 300;
   font-size: 42px;
+  text-align: center;
   display: block;
+  background-color: black;
   margin: 34.860
   width: 473;
   height: 102:
@@ -33,21 +35,28 @@ body {
   color: aquamarine;
   font-size: 16px;
   text-decoration: underline;
+  background-color: black;
   cursor:auto;
   width: auto;
   height: auto;
 }
 .video {
   object-fit: contain;
+  text-align: center;
+  background-color: black;
   width: 404;
   height: 720;
 }
 .camp {
+  text-align: center;
+  background-color: black;
   width: 896;
   height: 527;
 }
 .app {
   color: white;
+  background-color: black;
+  text-align: center;
   margin: 21;
   width: 64;
   height: 108;
@@ -57,14 +66,17 @@ p {
   font-size: 21px;
   text-align: center;
   color: grey;
+  background-color: black;
 }
 .footer {
   text-align: right;
   color: gray;
+  background-color: black;
 }
 div {
   text-align: right;
   display: block;
+  background-color: black;
   width: 885;
   height: 25;
 }
