@@ -34,6 +34,7 @@ body {
 .lks {
   color: aquamarine;
   font-size: 16px;
+  text-align: center;
   text-decoration: underline;
   background-color: black;
   cursor:auto;
@@ -68,9 +69,9 @@ p {
   color: grey;
   background-color: black;
 }
-.footer {
-  text-align: right;
+.footer p {
   color: gray;
+  text-align: right;
   background-color: black;
 }
 div {
